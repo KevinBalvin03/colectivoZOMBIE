@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Scanner readData=new Scanner(System.in);
+        Scanner scanner =new Scanner(System.in);
 
         System.out.println("**** RESIDENT EVIL BY GLOBERS ****");
         System.out.println("DEVELOPER KBSG");
